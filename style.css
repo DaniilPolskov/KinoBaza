@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
 }
-
+/*Код написал Даниил Полшков*/
 body{
     font-size: 1.2em;
     background-color: #ffff;
@@ -80,6 +80,7 @@ ul li {
     width: 900px;
     height: 46px;
 }
+/*Код написал Даниил Полшков*/
 ul.menu{
     float: right;
 }
